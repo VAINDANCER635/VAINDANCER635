@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Framework7-EE4D71?style=for-the-badge&logo=framework7&logoColor=white" alt="Framework7" />
 </p>
 <p>
-  <strong>Roots in:</strong> React • Gatsby • React Native Web • Bootstrap • CSS sorcery
+  <strong>Roots in:</strong> React • Gatsby • React Native Web • JavaScript • CSS sorcery
 </p>
 
 <!-- ==================== NEW: TOOLS & PLATFORMS ==================== -->

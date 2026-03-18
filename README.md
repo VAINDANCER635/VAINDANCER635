@@ -80,6 +80,10 @@
   <em>Trying to ship apps that matter. Drop a ⭐ if you believe in building for real impact.</em>
 </p>
 
-<!-- GitHub Stats (updated colors to match neon blue theme) -->
-<img src="https://github-readme-stats.vercel.app/api?username=VAINDANCER635&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VAINDANCER635&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" width="48%" />>
+<!-- GitHub Stats (updated for Adam Korrison + neon blue theme) -->
+<h3>Stats Overview ⚡ Adam Korrison</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VAINDANCER635&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C0F0FF&icon_color=00E6FF&border_radius=12" alt="Adam Korrison GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VAINDANCER635&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00E6FF&currStreakNum=FFFFFF&sideNums=C0F0FF&currStreakLabel=00BFFF&sideLabels=FFFFFF&dates=C0F0FF&border_radius=12" alt="Adam Korrison Contribution Streak" width="48%" />
+</div>
+<p align="center"><em>Tracking the journey of building life-changing apps</em></p>

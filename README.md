@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/VAINDANCER635/VAINDANCER635/raw/main/banner.png" alt="Profile Banner" width="100%" />
   <br><br>
-  <h1>Hey 👋, I'm Samuel (Adam) – VAINDANCER635</h1>
+
   
   <p>
     <strong>Frontend architect turned mobile craftsman.</strong><br>

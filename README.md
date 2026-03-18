@@ -8,11 +8,6 @@
     Building buttery-smooth native apps that feel premium and ship fast.
   </p>
 
-  <!-- Badges / Stats -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=VAINDANCER635&color=00FF9D&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/VAINDANCER635?color=00FF9D&label=FOLLOWERS&logo=github" alt="Followers" />
-  </p>
 
   <!-- Tech Stack -->
   <h3>Tech I Ship With ⚡</h3>
@@ -34,7 +29,7 @@
   <blockquote>
     I turn screens into experiences people actually want to touch.<br>
     Deep in next-gen mobile right now: performance-obsessed, intuitive UX, cross-platform mastery.<br>
-    From pixel-perfect UIs to production-grade native apps — let's build something electric.
+    From pixel-perfect UIs to production-grade native apps. Let's build something electric.
   </blockquote>
 
   <!-- Current Focus / Projects -->

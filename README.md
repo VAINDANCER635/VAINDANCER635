@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/0D1117/00FF9D?text=VAINDANCER635+%7C+Mobile+Architect+%E2%9A%A1" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/VAINDANCER635/VAINDANCER635/raw/main/banner.png" alt="Profile Banner" width="100%" />
   <br><br>
   <h1>Hey 👋, I'm Samuel (Adam) – VAINDANCER635</h1>
   

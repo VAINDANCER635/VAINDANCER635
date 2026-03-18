@@ -42,17 +42,17 @@
 </p>
 
 <!-- ==================== NEW: AI & DESIGN ACCELERATION STACK (2026 must-have) ==================== -->
+<!-- AI & Design Acceleration Stack (2026 must-have) -->
 <h3>AI & Design Acceleration Stack 🤖</h3>
 <p>
   <img src="https://img.shields.io/badge/Grok-xAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/FlutterFlow-4285F4?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" />
 </p>
-
 <!-- ==================== WHAT I'M ABOUT (rewritten for impact) ==================== -->
 <h3>What I'm About 🔥</h3>
 <blockquote style="font-size:1.2rem; border-left: 6px solid #00BFFF; padding-left:25px; color:#BBEEFF;">

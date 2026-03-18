@@ -57,16 +57,15 @@
 <h3>What I'm About 🔥</h3>
 <blockquote style="font-size:1.2rem; border-left: 6px solid #00BFFF; padding-left:25px; color:#BBEEFF;">
   I craft next-level, life-changing mobile experiences that actually solve real-world problems.<br><br>
-  From pixel-perfect UIs to production-grade native apps — I build apps people don’t just use… they rely on.<br>
+  From pixel-perfect UIs to production-grade native apps. I aim to build apps people don’t just use… they rely on.<br>
   Performance-obsessed. Intuitive by design. Cross-platform mastery that ships fast and scales.
 </blockquote>
 
 <!-- ==================== CURRENTLY BUILDING (updated & broadened) ==================== -->
 <h3>Currently Building ⚡</h3>
 <ul style="font-size:1.15rem; line-height:1.8;">
-  <li><strong>Life-changing cross-platform apps</strong> — seamless native experiences (React Native + Expo, Flutter, Kotlin/Swift) that solve real problems in health, finance, productivity, and beyond</li>
+  <li><strong>Life-changing cross-platform apps</strong>, seamless native experiences (React Native + Expo) that solve real problems in health, finance, productivity, and beyond</li>
   <li>High-performance tools & utilities that help other mobile devs ship faster</li>
-  <li>AI-augmented interfaces and next-gen bridges (Flutter + native, React Native Web, Svelte/Ionic hybrids)</li>
 </ul>
 
 <!-- ==================== CONNECT & CLOSING ==================== -->
@@ -78,7 +77,7 @@
 </p>
 
 <p>
-  <em>Always shipping apps that matter. Drop a ⭐ if you believe in building for real impact.</em>
+  <em>Trying to ship apps that matter. Drop a ⭐ if you believe in building for real impact.</em>
 </p>
 
 <!-- GitHub Stats (updated colors to match neon blue theme) -->

@@ -77,7 +77,7 @@
 </p>
 
 <p>
-  <em>Trying to ship apps that matter. Drop a ⭐ if you believe in building for real impact.</em>
+  <em>Trying to ship apps that matter. Drop a ⭐ if you believe in building for real life impact.</em>
 </p>
 
 <!-- GitHub Stats (updated for Adam Korrison + neon blue theme) -->

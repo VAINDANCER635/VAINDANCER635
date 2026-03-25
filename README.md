@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/FlutterFlow-4285F4?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" />
 </p>
 <!-- ==================== WHAT I'M ABOUT (rewritten for impact) ==================== -->
 <h3>What I'm About 🔥</h3>
